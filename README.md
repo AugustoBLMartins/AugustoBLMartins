@@ -1,16 +1,32 @@
-## Hi there 👋
+# Olá, eu sou o Augusto Martins! 👋
 
-<!--
-**AugustoBLMartins/AugustoBLMartins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um desenvolvedor focado no ecossistema **Java** e **Spring Boot**, apaixonado por construir soluções robustas, testadas e escaláveis. Atualmente estou aprimorando meus conhecimentos em arquitetura de microsserviços e boas práticas de desenvolvimento (Clean Code, TDD).
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 O que eu venho estudando:
+- **Linguagens:** Java (17+)
+- **Frameworks:** Spring Boot, Spring Data JPA, Spring Security.
+- **Testes:** JUnit 5, Mockito (Testes Unitários e de Integração).
+- **Ferramentas:** Maven, Docker, Git/GitHub, Postman.
+- **Bancos de Dados:** PostgreSQL, MySQL, H2.
+
+---
+
+### 📂 Projeto em Destaque:
+**[Agenda API]([https://github.com/AugustoBLMartins/agenda-api])**
+* API REST completa com CRUD de contatos.
+* Validação de regras de negócio (CPF único).
+* 100% de cobertura de testes na camada de serviço.
+* Documentação completa com README detalhado.
+
+---
+
+### 📫 Como me encontrar:
+- **LinkedIn:** [https://www.linkedin.com/in/augustoblmartins/]
+- **E-mail:** [euaugustoleal@gmail.com]
+
+---
+
+### 📊 Estatísticas
+![AugustoBLMartins GitHub Stats](https://github-readme-stats.vercel.app/api?username=AugustoBLMartinsI&show_icons=true&theme=dracula)
