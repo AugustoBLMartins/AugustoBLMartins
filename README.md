@@ -28,7 +28,9 @@ Sou um desenvolvedor focado no ecossistema **Java** e **Spring Boot**, apaixonad
 
 ---
 
-### 📊 Estatísticas do GitHub
-![Estatísticas do Augusto](https://github-readme-stats.vercel.app/api?username=AugustoBLMartins&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=AugustoBLMartins&layout=compact&theme=dracula)
+### 🛠️ Tecnologias e Ferramentas
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+![Maven](https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
