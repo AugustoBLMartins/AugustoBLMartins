@@ -28,5 +28,7 @@ Sou um desenvolvedor focado no ecossistema **Java** e **Spring Boot**, apaixonad
 
 ---
 
-### 📊 Estatísticas
-![AugustoBLMartins GitHub Stats](https://github-readme-stats.vercel.app/api?username=AugustoBLMartinsI&show_icons=true&theme=dracula)
+### 📊 Estatísticas do GitHub
+![Estatísticas do Augusto](https://github-readme-stats.vercel.app/api?username=AugustoBLMartins&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=AugustoBLMartins&layout=compact&theme=dracula)
