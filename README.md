@@ -14,7 +14,7 @@ Sou um desenvolvedor focado no ecossistema **Java** e **Spring Boot**, apaixonad
 ---
 
 ### 📂 Projeto em Destaque:
-**[Agenda API]([https://github.com/AugustoBLMartins/agenda-api])**
+**[Agenda API](https://github.com/AugustoBLMartins/agenda-api)**
 * API REST completa com CRUD de contatos.
 * Validação de regras de negócio (CPF único).
 * 100% de cobertura de testes na camada de serviço.
